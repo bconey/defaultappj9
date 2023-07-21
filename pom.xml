@@ -36,7 +36,7 @@
 
     <build>
         <plugins>
-        <!-- Enable liberty-maven plugin -->
+        <!-- Enable liberty-maven plugin noop to trigger PR build-->
             <plugin>
                 <groupId>io.openliberty.tools</groupId>
                 <artifactId>liberty-maven-plugin</artifactId>
